@@ -10,4 +10,5 @@ If you are looking for a connector that doesn't exist yet or you'd like to see i
 If you find one, please also [make an issue](https://gitlab.com/meltano/hub/-/issues/new?issue) on MeltanoHub so we get it added!
 1. Check if an [issue](https://github.com/MeltanoLabs/Singer-Most-Wanted/issues) is already open for the connector you're looking for.
 If so, jump into the issue discussion and see what the status is or how you can help!
+Also add a :+1: emoji on the description or a "+1" comment so its easier to understand how many people are interested and how much demand there is for the connector.
 1. Add a [new issue](https://github.com/MeltanoLabs/Singer-Most-Wanted/issues/new) to this repo with a title like "tap-x" or "tap-x to SDK" if its for migrating.
