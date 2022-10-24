@@ -1,6 +1,6 @@
 # Singer-Most-Wanted
 
-This repo is intended to keep track of the Singer connectors that we, as a community, would like to see built.
+This repo is intended to keep track of the Singer connectors that we, as a community, would like to see built. Add a reaction :thumbsup: to the issue to add help bring the most popular issues to the top of the list.
 
 
 If you are looking for a connector that doesn't exist yet or you'd like to see it migrated over to the [Meltano Singer SDK](https://sdk.meltano.com/en/latest/), here's what you should do:
